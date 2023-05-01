@@ -1,0 +1,5 @@
+.vscode
+Binaries/
+Intermediate/
+Saved/
+*.code-workspace
